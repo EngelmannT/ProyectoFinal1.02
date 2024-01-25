@@ -41,7 +41,7 @@ img{
 
 .sticky{
     display: flex;
-    flex-direction: ro;
+    flex-direction: row;
     align-items: center;
 }
 
