@@ -82,16 +82,19 @@ margin-left: 30px;
 .modular{
     width: 300px;
     margin-top: 30px;
+    border: 2px solid chocolate
 }
 
 .abiertos{
-    width: 350px;
+    width: 300px;
     margin-top: 30px;
+    border: 2px solid chocolate
 }
 
 .integrales{
     width: 300px;
     margin-top: 30px;
+    border: 2px solid chocolate
 }
 /*Pagina de Indumentarias*/
 
@@ -108,43 +111,52 @@ margin-left: 30px;
 
 .grisnegra{
     width: 300px;
+    border: 2px solid chocolate;
     
 }
 
 .negraroja{
     width: 300px;
+    border: 2px solid chocolate
 }
 
 .verdelisa{
     width: 300px;
+    border: 2px solid chocolate
 }
 
 /*Guantes*/
 
 .amarillo{
     width: 300px;
+    border: 2px solid chocolate
 }
 
 .blanco{
     width: 300px;
+    border: 2px solid chocolate
 }
 
 .rojo{
     width: 300px;
+    border: 2px solid chocolate
 }
 
 /*Botas*/
 
 .negras{
     width: 300px;
+    border: 2px solid chocolate
 }
 
 .camufladas{
     width: 260px;
+    border: 2px solid chocolate
 }
 
 .arena{
     width: 290px;
+    border: 2px solid chocolate
 }
 
 /*Footer*/
